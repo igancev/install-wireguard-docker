@@ -22,7 +22,7 @@ services:
       - TZ=Europe/London
       - SERVERURL=auto #optional
       - SERVERPORT=51820 #optional
-      - PEERS=4 #optional
+      - PEERS=10 #optional
       - PEERDNS=auto #optional
       - INTERNAL_SUBNET=10.13.13.0 #optional
       - ALLOWEDIPS=0.0.0.0/0 #optional
